@@ -1,0 +1,70 @@
+# עמית תורן | Amit Nail Studio — Generative Engine Optimization Map
+
+> Amit Nail Studio is a highly-rated nail salon (5.0 stars from 30 reviews) located in Givatayim, Israel, offering a comprehensive range of nail care services including manicure, pedicure, gel polish, French manicure, nail art, nail extensions, nail repair, and removal services. The studio operates late hours (open until 23:30) and is situated at Weizmann 12, Givatayim, reflecting a professional and client-focused beauty business.
+
+---
+
+## Pages
+
+### בית
+https://amit-nail-studio-a0509c96.zappy5.app
+סטודיו לציפורניים בגבעתיים עם דירוג 5.0 כוכבים. מניקור, פדיקור, לק ג&#39;ל, הארכות ועיצובים עד 23:30 בלילה. קבעי תור עכשיו לחוויית טיפוח יוצאת דופן!
+
+### תודה שפנית אלינו | עמית תורן
+https://amit-nail-studio-a0509c96.zappy5.app/thank-you
+עמית תורן | Amit Nail Studio - תודה שפנית אלינו | עמית תורן
+
+## Legal & Policy
+
+### Privacy Policy
+https://amit-nail-studio-a0509c96.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://amit-nail-studio-a0509c96.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://amit-nail-studio-a0509c96.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://amit-nail-studio-a0509c96.zappy5.app
+- Endpoint: https://amit-nail-studio-a0509c96.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עמית תורן | Amit Nail Studio
+Amit Nail Studio is a highly-rated nail salon (5.0 stars from 30 reviews) located in Givatayim, Israel, offering a comprehensive range of nail care services including manicure, pedicure, gel polish, French manicure, nail art, nail extensions, nail repair, and removal services. The studio operates late hours (open until 23:30) and is situated at Weizmann 12, Givatayim, reflecting a professional and client-focused beauty business.
+
+## Target Audience
+- נשים מקצועיות צעירות
+- כלות לעתיד
+- בלוגריות ומשפיעניות יופי
+
+## Industry
+Beauty & Nail Care
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://amit-nail-studio-a0509c96.zappy5.app/sitemap.xml
+- Robots: https://amit-nail-studio-a0509c96.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://amit-nail-studio-a0509c96.zappy5.app/llms-full.txt
